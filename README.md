@@ -1,4 +1,4 @@
-# AVT-VIBE -- Video bitrate estimation model
+# AVT-VIBE -- Video bitrate estimation models
 
 This is the repository of two video bitrate estimation models, which have been developed for the [ICIP 2024 GRAND CHALLENGE
 ON VIDEO COMPLEXITY](https://cd-athena.github.io/GCVC/index.html)
