@@ -12,7 +12,7 @@ In `models` you can find two bash scripts:
 Both models require [FFMPEG](https://ffmpeg.org/) to be installed and [BC](https://www.gnu.org/software/bc/).
 
 ## Usage
-You need to call the model with a video as first argument, e.g. `./est_uf_qp_sr_crf.sh <video>`, which should result in an output similar to:
+You need to call one of the models with a video as the first argument, e.g. `./est_uf_qp_sr_crf.sh <video>`, which should result in an output similar to:
 
 ```
 {"video": <video>", "estimated_bitrate_[kb/s]": 7472.53461021 }
