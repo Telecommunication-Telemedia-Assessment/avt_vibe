@@ -25,5 +25,6 @@ If you use this software in your research, please include a link to the reposito
 @article{goeringrao2024videocomplexity,
   title={AVT-VIBE -- OVERVIEW OF TWO MODELS FOR THE ICIP 2024 GRAND CHALLENGE ON VIDEO COMPLEXITY},
   author={Steve G\"oring and Rakesh Rao Ramachandra Rao},
+  year = {2024},
 }
 ```
