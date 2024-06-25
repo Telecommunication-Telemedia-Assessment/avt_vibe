@@ -15,7 +15,7 @@ Both models require [FFMPEG](https://ffmpeg.org/) to be installed and [BC](https
 You need to call one of the models with a video as the first argument, e.g. `./est_uf_qp_sr_crf.sh <video>`, which should result in an output similar to:
 
 ```
-{"video": <video>", "estimated_bitrate_[kb/s]": 7472.53461021 }
+{"video": "<video>", "estimated_bitrate_[kb/s]": 7472.53461021 }
 ```
 
 ## Acknowledgments
@@ -28,3 +28,4 @@ If you use this software in your research, please include a link to the reposito
   year = {2024},
 }
 ```
+[Paper PDF](https://stg7.github.io/pdfs/2024/avt-vibe-paper.pdf) 
